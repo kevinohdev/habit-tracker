@@ -22,5 +22,3 @@ I wanted to build a full stack application using Next.js 13 and learn to use the
 
 MongoDB is used for the database, and Prisma for queries. NextAuth.js is used to handle authentication. 
 
-
-# habit-tracker
